@@ -5,9 +5,7 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
- `Vocals: Hahaha`
+ playlist[Vocals] = Hahaha
+
   return playlist
 }
-
-updatePlaylist(playlist, `Stinky`, `Banana`)
-console.log(playlist)
