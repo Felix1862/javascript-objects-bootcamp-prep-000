@@ -8,3 +8,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
  `Vocals: Hahaha`
   return playlist
 }
+
+updatePlaylist(playlist, `Stinky`, `Banana`)
+console.log(playlist)
