@@ -9,4 +9,3 @@ function updatePlaylist(playlist, artistName, songTitle) {
 
   return playlist
 }
-const playlist = {Hahaha}
