@@ -3,3 +3,7 @@ var playlist = {
   Ludivigo: "Earth",
   Saint: "Lord"
 }
+
+function updatePlaylist(playlist, artistName, songTitle) {
+  `Vocal: Awesome`
+}
