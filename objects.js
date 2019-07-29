@@ -6,5 +6,4 @@ var playlist = {
 
 function updatePlaylist(playlist, artistName, songTitle) {
  playlist[Vocals] = Hahaha
- return playlist
 }
