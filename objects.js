@@ -12,5 +12,3 @@ function updatePlaylist(playlist, artistName, songTitle) {
 const playlist = {Hahaha}
 
 updatePlaylist(playlist, `artistName`, `songTitle`)
-
-playlist
