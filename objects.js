@@ -5,5 +5,6 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  `Vocal: Awesome`
+  `Vocal: Awesome` 
+  return playlist
 }
